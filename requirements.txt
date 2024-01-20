@@ -1,2 +1,3 @@
 streamlit
-# Includeany other libraries required by your app.
+numpy
+statsmodel.api
